@@ -124,7 +124,7 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name   : "محمد حسین کرمی"
+  name   : "Hossein Torabzadeh"
   avatar : "/assets/images/my.jpg"
   bio    : "روزمرگی های یک برنامه نویس"
   links:
