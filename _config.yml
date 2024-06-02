@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: حسین ترابزاده خراسانی
-email: 
+email: a@b.com
 description: >- # this means to ignore newlines until "baseurl:"
 حسین ترابزاده خراسانی
-twitter_username: 
-github_username: 
+twitter_username: 1234
+github_username: 1234
 minimal_mistakes_skin: "sunrise"
 search: true
 og_image: https://torabzadeh.github.io/Info/
@@ -36,7 +36,7 @@ paginate: 25 # amount of posts to show
 paginate_path: /page:num/
 timezone: IR
 
-lang: en
+lang: fa
 dir: rtl
 direction: rtl
 
