@@ -18,7 +18,7 @@ search: true
 # teaser: /assets/images/favicon.png
 #logo: /assets/images/favicon.png
 
-locale: "fa-IR"
+# locale: "fa-IR"
 
 # Build settings
 markdown: kramdown
