@@ -35,7 +35,7 @@ direction: rtl
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://blog.mhkarami97.ir
+url: 
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -117,31 +117,18 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name   : "محمد حسین کرمی"
-  avatar : "/assets/images/my.jpg"
-  bio    : "روزمرگی های یک برنامه نویس"
+  name   : "Hossein Torabzadeh"
+  avatar : "assets/images/my-pic-01.jpeg"
+  bio    : "Assistant professor of remote sensing in Bu-Ali Sina University"
   links:
-    - label: "وبسایت"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://itarfand.com"
-    - label: "دیگر سایت‌ها"
-      icon: "fas fa-fw fa-link"
-      url: "https://mhkarami97.ir/#blog"  
-    - label: "انجمن گفتگو"
-      icon: "fas fa-fw fa-link"
-      url: "https://forum.itarfand.com"    
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mhkarami97"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mhkarami97"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mhkarami97"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/mhkarami97"
+      url: "https://torabzadeh.github.io/blog/"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/htorabzadeh"
+
+
 
 footer:
   links:
