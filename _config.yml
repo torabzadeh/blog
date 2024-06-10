@@ -178,6 +178,7 @@ defaults:
       share: true
       related: true
       lang: fa
+      dir: rtl
       direction: rtl  
       
   # en posts
