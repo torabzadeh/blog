@@ -177,8 +177,8 @@ defaults:
       comments: true
       share: true
       related: true
-      lang: fa
-      direction: rtl
+      #lang: fa
+      #direction: rtl
   # _pages
   - scope:
       path: "_pages"
