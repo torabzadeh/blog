@@ -128,8 +128,6 @@ author:
       icon: "fab fa-fw fa-telegram"
       url: "https://t.me/htorabzadeh"
 
-
-
 footer:
   links:
     - label: "Twitter"
@@ -146,21 +144,6 @@ footer:
       url: "https://linkedin.com/in/mhkarami97"
 
 defaults:
-  # fa posts
-  - scope:
-      path: "_posts/fa"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      lang: fa
-      dir: rtl
-      direction: rtl  
-      
   # en posts
   - scope:
       path: "_posts/en"
@@ -174,6 +157,22 @@ defaults:
       related: true
       #lang: fa
       #direction: rtl
+
+  # fa posts
+  - scope:
+      path: "_posts/fa"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      lang: fa
+      dir: rtl
+      direction: rtl     
+      
   # _pages
   - scope:
       path: "_pages"
