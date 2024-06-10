@@ -166,9 +166,23 @@ footer:
       url: "https://linkedin.com/in/mhkarami97"
 
 defaults:
-  # _posts
+  # fa posts
   - scope:
-      path: ""
+      path: "_posts/fa"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      lang: fa
+      direction: rtl  
+      
+  # en posts
+  - scope:
+      path: "_posts/en"
       type: posts
     values:
       layout: single
