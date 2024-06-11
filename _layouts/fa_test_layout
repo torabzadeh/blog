@@ -3,7 +3,7 @@
 
 <!doctype html>
 
-<html lang="fa" class="no-js" dir="rtl">
+<html lang="fa" class="no-js" direction="rtl" dir="rtl">
 <!--
 <head>
     {% include head.html %}
