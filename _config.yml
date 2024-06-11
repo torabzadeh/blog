@@ -170,7 +170,7 @@ defaults:
       share: true
       related: true
 
-      locale: "fa-IR"
+    #  locale: "fa-IR"
       lang: fa
       dir: rtl
       direction: rtl     
