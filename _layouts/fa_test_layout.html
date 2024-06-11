@@ -3,7 +3,7 @@
 
 <!doctype html>
 
-<html lang="fa" dir="rtl" class="no-js">
+<html lang="{{ site.locale | slice: 0,2 | default: " fa" }}" class="no-js" dir="{{ site.dir }}">
 <head>
     {% include head.html %}
     {% include head/custom.html %}
