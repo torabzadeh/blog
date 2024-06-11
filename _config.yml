@@ -29,7 +29,7 @@ paginate: 25 # amount of posts to show
 paginate_path: /page:num/
 timezone: IR
 
-lang: en # fa
+lang: en 
 # dir: rtl
 # direction: rtl
 
@@ -163,7 +163,7 @@ defaults:
       path: "_posts/fa"
       type: posts
     values:
-      layout: default
+      layout: single
       author_profile: true
       read_time: true
       comments: true
